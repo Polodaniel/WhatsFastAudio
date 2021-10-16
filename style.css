@@ -1,0 +1,26 @@
+/* ------------------------------------- */
+/* Plugin WhatsFastAudio                 */
+/* Desenvolvido por: Daniel Polo         */
+/* E-mail: polodaniel2016@gmail.com      */
+/* Data: 03/11/2020                      */
+/* ------------------------------------- */
+
+.botaoVelocidade
+{
+    color: gray;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    margin-left: 10px;
+}
+
+.botaoClicado
+{
+    color: #007bff;
+}
+
+.espacamentoBotao
+{
+    padding-right: 10px;
+}
